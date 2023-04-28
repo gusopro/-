@@ -13,7 +13,7 @@ public class Insertsort {
 		  }
 		insertsort(a);
 
-	}
+	} 
 	public static void insertsort(int a[]) {
 		int key=0;
 		for(int i=1;i<a.length;i++)
